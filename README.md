@@ -1,4 +1,4 @@
 # MDT_ERLC
-Paperwork for downtime and stuff
+Thank you for taking the time to look at my MDT for ER:LC
 
-USAGE: download the html file, drag and drop it into a web browser, and enjoy :)
+USAGE: download the MDT_ERLC folder, drag and drop the html file it into a web browser, and enjoy :)
